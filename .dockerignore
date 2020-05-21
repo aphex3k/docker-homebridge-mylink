@@ -1,3 +1,12 @@
 *.code-workspace
 .gitignore
 .travis.yml
+.docker.env
+persist/
+node_modules/
+logs/
+accessories/
+homebridge.log
+startup.sh
+config.json
+package.json

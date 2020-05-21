@@ -1,0 +1,9 @@
+persist/
+node_modules/
+logs/
+accessories/
+homebridge.log
+startup.sh
+config.json
+package.json
+.docker.env
